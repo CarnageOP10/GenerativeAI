@@ -1,3 +1,6 @@
 jupyter notebook
 pandas
 langchain
+google-search-results
+wikipedia
+pypdf
