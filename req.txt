@@ -4,3 +4,7 @@ langchain
 google-search-results
 wikipedia
 pypdf
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
