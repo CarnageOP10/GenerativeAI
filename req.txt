@@ -8,3 +8,6 @@ huggingface_hub
 transformers
 accelerate
 bitsandbytes
+tiktoken
+pinecone-client
+chromadb

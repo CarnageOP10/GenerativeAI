@@ -172,3 +172,5 @@ cython_debug/
 
 #all the files in genai folder
 genai/*
+pdfs/*
+new_articles/*
